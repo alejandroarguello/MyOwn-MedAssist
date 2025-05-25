@@ -1,0 +1,169 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Medical QA Evaluation Report</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                margin: 20px;
+                color: #333;
+            }
+            h1 {
+                color: #2c3e50;
+                border-bottom: 2px solid #3498db;
+                padding-bottom: 10px;
+            }
+            h2 {
+                color: #2980b9;
+                margin-top: 30px;
+            }
+            table {
+                border-collapse: collapse;
+                width: 100%;
+                margin: 20px 0;
+            }
+            th, td {
+                text-align: left;
+                padding: 12px;
+                border-bottom: 1px solid #ddd;
+            }
+            th {
+                background-color: #f2f2f2;
+            }
+            tr:hover {
+                background-color: #f5f5f5;
+            }
+            .highlight {
+                color: #e74c3c;
+                font-weight: bold;
+            }
+            .visualization {
+                margin: 30px 0;
+                text-align: center;
+            }
+            .visualization img {
+                max-width: 100%;
+                box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            }
+            .caption {
+                margin-top: 10px;
+                font-style: italic;
+                color: #7f8c8d;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Medical QA Evaluation Report</h1>
+        
+        <h2>Summary Results</h2>
+        <table>
+            <tr>
+                <th>Model</th>
+                <th>Factuality</th>
+                <th>Factuality Std</th>
+                <th>Relevance</th>
+                <th>Relevance Std</th>
+                <th>Average</th>
+                <th>Average Std</th>
+            </tr>
+    
+            <tr>
+                <td>Baseline</td>
+                <td>0.7779</td>
+                <td>0.3484</td>
+                <td>0.9850</td>
+                <td>0.0923</td>
+                <td>0.8814</td>
+                <td>0.1936</td>
+            </tr>
+        
+            <tr>
+                <td>Baseline + RAG</td>
+                <td>0.0000</td>
+                <td>0.0000</td>
+                <td>0.0000</td>
+                <td>0.0000</td>
+                <td>0.0000</td>
+                <td>0.0000</td>
+            </tr>
+        
+            <tr>
+                <td>Fine-tuned</td>
+                <td>0.6563</td>
+                <td>0.4371</td>
+                <td>0.7549</td>
+                <td>0.3874</td>
+                <td>0.7056</td>
+                <td>0.3468</td>
+            </tr>
+        
+            <tr>
+                <td>Fine-tuned + RAG</td>
+                <td>0.0000</td>
+                <td>0.0000</td>
+                <td>0.0000</td>
+                <td>0.0000</td>
+                <td>0.0000</td>
+                <td>0.0000</td>
+            </tr>
+        
+        </table>
+        
+        <h2>Visualizations</h2>
+    
+        <div class="visualization">
+            <img src="summary_bar_chart.png" alt="Model Performance Comparison">
+            <div class="caption">Model Performance Comparison</div>
+        </div>
+        
+        <div class="visualization">
+            <img src="factuality_boxplot.png" alt="Factuality Scores Distribution">
+            <div class="caption">Factuality Scores Distribution</div>
+        </div>
+        
+        <div class="visualization">
+            <img src="relevance_boxplot.png" alt="Relevance Scores Distribution">
+            <div class="caption">Relevance Scores Distribution</div>
+        </div>
+        
+        <div class="visualization">
+            <img src="average_boxplot.png" alt="Average Scores Distribution">
+            <div class="caption">Average Scores Distribution</div>
+        </div>
+        
+        <div class="visualization">
+            <img src="factuality_distribution.png" alt="Factuality Score Distributions">
+            <div class="caption">Factuality Score Distributions</div>
+        </div>
+        
+        <div class="visualization">
+            <img src="relevance_distribution.png" alt="Relevance Score Distributions">
+            <div class="caption">Relevance Score Distributions</div>
+        </div>
+        
+        <div class="visualization">
+            <img src="average_distribution.png" alt="Average Score Distributions">
+            <div class="caption">Average Score Distributions</div>
+        </div>
+        
+        <h2>Key Insights</h2>
+        <ul>
+            <li>The model with the best overall performance is <span class="highlight">Baseline</span>.</li>
+            <li>The model with the highest factuality score is <span class="highlight">Baseline</span>.</li>
+            <li>The model with the highest relevance score is <span class="highlight">Baseline</span>.</li>
+        </ul>
+        
+        <h2>Conclusion</h2>
+        <p>
+            Based on the evaluation results, we can draw the following conclusions:
+        </p>
+        <ul>
+            <li>The baseline model achieves a factuality score of 0.7779 and a relevance score of 0.9850.</li>
+            <li>The fine-tuned model achieves a factuality score of 0.6563 and a relevance score of 0.7549.</li>
+            <li>The difference in performance between the models suggests that Baseline is the most suitable for medical QA tasks.</li>
+        </ul>
+    </body>
+    </html>
+    

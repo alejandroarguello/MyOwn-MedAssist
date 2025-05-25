@@ -1,0 +1,31 @@
+# Medical Dataset Analysis Summary
+
+## PubMedQA Dataset
+- Total examples: 1000
+- Unique system prompts: 1
+- Average question length (words): 215.12
+- Average answer length (words): 39.66
+- Max question length (words): 414
+- Max answer length (words): 126
+
+## MedMCQA Dataset
+- Total examples: 193155
+- Unique system prompts: 1
+- Questions with options: 193155
+- Percentage with options: 100.0
+- Average question length (words): 33.05736325748751
+- Average answer length (words): 69.6201755067174
+- Max question length (words): 280
+- Max answer length (words): 3160
+
+## Synthea Dataset
+- Total examples: 277
+- Unique system prompts: 3
+- Unique conditions: 71
+- Unique medications: 37
+- Average question length (words): 15.108303249097473
+- Average answer length (words): 36.187725631768956
+- Max question length (words): 158
+- Max answer length (words): 180
+
+Visualizations are available in the 'visualizations' directory.

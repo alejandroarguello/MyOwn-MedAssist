@@ -1,0 +1,562 @@
+[
+  {
+    "query": {
+      "id": "doc_849",
+      "title": "Evaluation of humoral and cellular immune responses in healthcare workers with varying levels of SARS-CoV-2 exposure: effects of CoronaVac vaccination followed by heterologous booster.",
+      "text": "The COVID-19 pandemic demanded diverse vaccination strategies, and there is significant interest in their effectiveness in generating a robust immune response. In Brazil, the use of CoronaVac was cruc...",
+      "source": "PubMed",
+      "query_term": "COVID-19 treatment"
+    },
+    "neighbors": [
+      {
+        "rank": 1,
+        "id": "doc_941",
+        "title": "Diabetes-associated central nervous system mucormycosis with delayed diagnosis: a case report.",
+        "text": "Central nervous system (CNS) mucormycosis is a rare, life-threatening fungal infection predominantly affecting diabetic and immunocompromised patients. Early diagnosis remains challenging, resulting i...",
+        "source": "PubMed",
+        "query_term": "COVID-19 treatment",
+        "similarity": 0.9907390475273132
+      },
+      {
+        "rank": 2,
+        "id": "doc_979",
+        "title": "Impact of the COVID-19 pandemic on continuity of medical treatment for patients with chronic diseases in Japan: a retrospective cohort analysis.",
+        "text": "The COVID-19 pandemic has raised concerns about continuity of care for chronic diseases such as diabetes, hypertension, and dyslipidemia. Although studies have documented declines in healthcare utiliz...",
+        "source": "PubMed",
+        "query_term": "COVID-19 treatment",
+        "similarity": 0.9904987215995789
+      },
+      {
+        "rank": 3,
+        "id": "doc_924",
+        "title": "Activated Partial Thromboplastin Time and Anti-IIa Monitoring in Argatroban Anticoagulation in COVID-19 Patients on Venovenous Extracorporeal Membrane Oxygenation.",
+        "text": "Unfractionated heparin has long been considered the standard anticoagulation in ECMO, despite some pitfalls such as heparin resistance, heparin induced thrombocytopenia (HIT), etc Recently, some centr...",
+        "source": "PubMed",
+        "query_term": "COVID-19 treatment",
+        "similarity": 0.9904969930648804
+      },
+      {
+        "rank": 4,
+        "id": "doc_863",
+        "title": "Types of primary care visits and COVID-19 vaccine hesitancy: a retrospective cohort study.",
+        "text": "The COVID-19 pandemic changed the nature of primary care visits, from face-to-face to an increasing prevalence of online or telephone visits, but little is known about the association between types of...",
+        "source": "PubMed",
+        "query_term": "COVID-19 treatment",
+        "similarity": 0.9904638528823853
+      },
+      {
+        "rank": 5,
+        "id": "doc_839",
+        "title": "Editorial: Neuropsychiatric consequences of the COVID-19 pandemic: understanding mechanisms, risk factors, and treatment.",
+        "text": "",
+        "source": "PubMed",
+        "query_term": "COVID-19 treatment",
+        "similarity": 0.9904439449310303
+      }
+    ]
+  },
+  {
+    "query": {
+      "id": "doc_62",
+      "title": "Risk factors and prognostic predictors of recurrent bacterial empyema in patients after surgical treatment.",
+      "text": "Thoracic empyema is a severe infection with significant morbidity and mortality. Recurrence remains a challenge, impacting patient outcomes and healthcare costs. This study investigated the incidence ...",
+      "source": "PubMed",
+      "query_term": "diabetes treatment guidelines"
+    },
+    "neighbors": [
+      {
+        "rank": 1,
+        "id": "doc_19",
+        "title": "Beyond the Cure: Navigating Hepatocellular Risk and Surveillance after Hepatitis C Eradication in the Direct-acting Antiviral Era.",
+        "text": "Direct-acting antivirals (DAAs) have dramatically changed the landscape of chronic hepatitis C virus (HCV) treatment and significantly reduced the risk of HCV-related hepatocellular carcinoma (HCC) af...",
+        "source": "PubMed",
+        "query_term": "diabetes treatment guidelines",
+        "similarity": 0.9906798005104065
+      },
+      {
+        "rank": 2,
+        "id": "doc_148",
+        "title": "The systemic and kidney hemodynamic response to empagliflozin, losartan and their combination varies between individuals.",
+        "text": "Renin-angiotensin system inhibitors (RASi) and sodium glucose cotransporter inhibitors (SGLT2i) are known for their kidney protective properties, but both show significant residual risk in large outco...",
+        "source": "PubMed",
+        "query_term": "diabetes treatment guidelines",
+        "similarity": 0.9905428290367126
+      },
+      {
+        "rank": 3,
+        "id": "doc_64",
+        "title": "A promising approach to diabetic osteoporosis: oxymatrine's effects on gut microbiota and osteoblasts.",
+        "text": "Oxymatrine (OMT), a quinolizidine alkaloid derived from Sophora flavescens Ait., has demonstrated therapeutic potential in type 2 diabetes mellitus (T2DM). This study aimed to investigate its effects ...",
+        "source": "PubMed",
+        "query_term": "diabetes treatment guidelines",
+        "similarity": 0.9905340671539307
+      },
+      {
+        "rank": 4,
+        "id": "doc_95",
+        "title": "Targeting metabolic vulnerability by combining NAMPT inhibitors and disulfiram for treatment of recurrent ovarian cancer.",
+        "text": "Ovarian cancer (OV) has the highest mortality rate among gynecological cancers. As OV progresses, tumor cells spread outside the ovaries to the peritoneal and abdominal cavities, forming cell clusters...",
+        "source": "PubMed",
+        "query_term": "diabetes treatment guidelines",
+        "similarity": 0.9904724359512329
+      },
+      {
+        "rank": 5,
+        "id": "doc_13",
+        "title": "Is smoking cessation the key to better oral health outcomes for type 2 diabetic patients with periodontal disease?",
+        "text": "La Rosa G R M, Pedulla E, Chapple I et al. A systematic review of oral health outcomes following smoking cessation in type 2 diabetes: clinical and research implications. J Dent 2025; https://doi.org/...",
+        "source": "PubMed",
+        "query_term": "diabetes treatment guidelines",
+        "similarity": 0.9904596209526062
+      }
+    ]
+  },
+  {
+    "query": {
+      "id": "doc_253",
+      "title": "Pulmonary hypertension in 2025: next steps?",
+      "text": "To review recent updates in pediatric pulmonary hypertension with a special focus on recent recommendations from the World Symposium of Pulmonary Hypertension (WSPH).",
+      "source": "PubMed",
+      "query_term": "hypertension management"
+    },
+    "neighbors": [
+      {
+        "rank": 1,
+        "id": "doc_312",
+        "title": "Ten tips on how to manage kidney health in migrants and refugees.",
+        "text": "The number of forcibly displaced people worldwide continues to rise each year due to armed conflicts, human rights violations and natural disasters. Many others migrate in search of better living cond...",
+        "source": "PubMed",
+        "query_term": "hypertension management",
+        "similarity": 0.9904947280883789
+      },
+      {
+        "rank": 2,
+        "id": "doc_298",
+        "title": "Hemorrhagic and ischemic risks of anti-VEGF therapies in glioblastoma.",
+        "text": "Glioblastoma (GBM) is one of the most aggressive primary brain tumors, characterized by extensive neovascularization and a highly infiltrative phenotype. Anti-vascular endothelial growth factor (VEGF)...",
+        "source": "PubMed",
+        "query_term": "hypertension management",
+        "similarity": 0.9904340505599976
+      },
+      {
+        "rank": 3,
+        "id": "doc_380",
+        "title": "Effects of yogic practices on physiological and biochemical parameters of hypertensive patients: A systematic review of clinical trials.",
+        "text": "Hypertension affects around 1.28 billion adults worldwide. If not managed properly, it can lead to life threatening conditions. While various pharmacological treatments are available, they are associa...",
+        "source": "PubMed",
+        "query_term": "hypertension management",
+        "similarity": 0.9904026985168457
+      },
+      {
+        "rank": 4,
+        "id": "doc_202",
+        "title": "Association between advanced glycation end products and estimated glomerular filtration rate: a cross-sectional analysis.",
+        "text": "Chronic kidney disease (CKD) is a significant public health concern associated with high morbidity and mortality rates, particularly in populations with type 2 diabetes and hypertension. Advanced glyc...",
+        "source": "PubMed",
+        "query_term": "hypertension management",
+        "similarity": 0.9903924465179443
+      },
+      {
+        "rank": 5,
+        "id": "doc_223",
+        "title": "Global, Regional, and National Burden of Nontraumatic Subarachnoid Hemorrhage: The Global Burden of Disease Study 2021.",
+        "text": "Nontraumatic subarachnoid hemorrhage (SAH) represents the third most common stroke type with unique etiologies, risk factors, diagnostics, and treatments. Nevertheless, epidemiological studies often c...",
+        "source": "PubMed",
+        "query_term": "hypertension management",
+        "similarity": 0.9903801679611206
+      }
+    ]
+  },
+  {
+    "query": {
+      "id": "doc_653",
+      "title": "Insights from the bottom-up development of LGR5-targeting immunotherapeutics.",
+      "text": "Leucine-rich repeat-containing G-protein coupled receptor 5 (LGR5), a transcriptional target gene of the Wnt signalling pathway, is overexpressed in multiple cancers, including colorectal cancer (CRC)...",
+      "source": "PubMed",
+      "query_term": "cancer immunotherapy"
+    },
+    "neighbors": [
+      {
+        "rank": 1,
+        "id": "doc_749",
+        "title": "Multimodal chemoradiotherapy including interstitial brachytherapy enhances outcomes in FIGO stage IVA cervical cancer: a\u00a0focus on tumor control and quality of life.",
+        "text": "This study was performed to evaluate the outcomes of advanced radiotherapy techniques, including image-guided adaptive brachytherapy (IGABT), in International Federation of Gynecology and Obstetrics (...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.990869402885437
+      },
+      {
+        "rank": 2,
+        "id": "doc_658",
+        "title": "Immunotherapy in breast cancer: current landscape and emerging trends.",
+        "text": "Breast cancer remains one of the most prevalent malignancies worldwide, underscoring an urgent need for innovative therapeutic strategies. Immunotherapy has emerged as a transformative frontier in thi...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9908550977706909
+      },
+      {
+        "rank": 3,
+        "id": "doc_687",
+        "title": "Immunotherapy in primary hormone-receptor positive breast cancer: A systematic review.",
+        "text": "Hormone-receptor positive (HR+), HER2 negative breast cancer (BC) is considered immunologically silent, thus investigation of immunotherapy in this subtype has evolved slower. This systematic review o...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9907796382904053
+      },
+      {
+        "rank": 4,
+        "id": "doc_620",
+        "title": "Induction chemotherapy followed by chemoradiotherapy for locally advanced cervical cancer: A systematic review and meta-analysis.",
+        "text": "The addition of induction chemotherapy (ICT) prior to concomitant chemoradiotherapy (CCRT) in the treatment of locally advanced cervical cancer (LACC) is controversial, as trials have yielded conflict...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9907776713371277
+      },
+      {
+        "rank": 5,
+        "id": "doc_755",
+        "title": "[Expert consensus on neoadjuvant therapy for locally advanced head and neck squamous cell carcinoma].",
+        "text": "Head and neck squamous cell carcinoma (HNSCC) arises from the epithelium of the upper aerodigestive tract, and over half of the patients had already progressed to locally advanced stage at initial cli...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9907472133636475
+      }
+    ]
+  },
+  {
+    "query": {
+      "id": "doc_352",
+      "title": "Differential cardiovascular risk profiles by sex among adults with CKD: a NHANES-based analysis.",
+      "text": "Chronic kidney disease (CKD) and cardiovascular disease are closely interconnected, with cardiovascular disease the leading cause of death for those with CKD. This increased risk for those with CKD is...",
+      "source": "PubMed",
+      "query_term": "hypertension management"
+    },
+    "neighbors": [
+      {
+        "rank": 1,
+        "id": "doc_339",
+        "title": "Challenges in the Management of Bradycardia, Renal Failure, Atrioventricular Blockade, Shock, and Hyperkalemia (BRASH) Syndrome in an Elderly Patient: A Case Report.",
+        "text": "This case report describes the clinical course of a 77-year-old woman with a complex medical history, including atrial fibrillation, hypertension, coronary artery disease, heart failure, and cognitive...",
+        "source": "PubMed",
+        "query_term": "hypertension management",
+        "similarity": 0.9907596111297607
+      },
+      {
+        "rank": 2,
+        "id": "doc_272",
+        "title": "Multimorbidity patterns and prevalence among geriatric patients in Japanese hospital dentistry.",
+        "text": "This study aimed to determine the prevalence of multimorbidity of a hospital dental patients with high rates of aging in Japan and to identify multimorbidity patterns in older patients (aged 65 years ...",
+        "source": "PubMed",
+        "query_term": "hypertension management",
+        "similarity": 0.9905850887298584
+      },
+      {
+        "rank": 3,
+        "id": "doc_271",
+        "title": "Factors influencing adoption of self-monitoring of blood pressure among hypertensive patients in primary healthcare in Vietnam: a cross-sectional facility-based study.",
+        "text": "Hypertension is an increasing health problem in low- and middle-income countries such as Vietnam. Self-monitoring of blood pressure (SMBP) is a crucial component of hypertension management in primary ...",
+        "source": "PubMed",
+        "query_term": "hypertension management",
+        "similarity": 0.9904961585998535
+      },
+      {
+        "rank": 4,
+        "id": "doc_269",
+        "title": "Trends in the global, regional, and national burden of cardiovascular diseases attributed to high systolic blood pressure from 1990 to 2021 and projections to 2045: a systematic analysis based on GBD 2021 data.",
+        "text": "Cardiovascular disease (CVD) remains the leading cause of death and disability worldwide, and high systolic blood pressure (HSBP) is considered among its most critical modifiable risk factors. This st...",
+        "source": "PubMed",
+        "query_term": "hypertension management",
+        "similarity": 0.9904953241348267
+      },
+      {
+        "rank": 5,
+        "id": "doc_273",
+        "title": "Association between metabolic syndrome and low back pain: a two-sample Mendelian randomization study.",
+        "text": "This study uses two-sample MR analysis with GWAS summary statistics to evaluate the causal relationship between metabolic syndrome and low back pain. A two-sample Mendelian randomization analysis used...",
+        "source": "PubMed",
+        "query_term": "hypertension management",
+        "similarity": 0.9904710054397583
+      }
+    ]
+  },
+  {
+    "query": {
+      "id": "doc_645",
+      "title": "Editorial: Exploring macrophage roles in cancer progression and therapeutic targeting.",
+      "text": "",
+      "source": "PubMed",
+      "query_term": "cancer immunotherapy"
+    },
+    "neighbors": [
+      {
+        "rank": 1,
+        "id": "doc_673",
+        "title": "Harnessing local and system immune profiling delineating differential responders to first-line sintilimab (anti-PD-1 antibody) combined with chemotherapy in extensive-stage small cell lung cancer: an exploratory biomarker analysis of a phase II study.",
+        "text": "While chemo-immunotherapy has been established as the frontline therapeutic regimen for extensive-stage small cell lung cancer (ES-SCLC), durable responses persist predominantly in a minor population ...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9911202788352966
+      },
+      {
+        "rank": 2,
+        "id": "doc_661",
+        "title": "Early mortality in patients with cancer and COVID-19 infection treated with immunotherapy.",
+        "text": "Immunotherapy in the presence of COVID-19 infections raises concerns because of potential overlapping clinical complications and immune system enhancement. Further investigation is warranted to establ...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9910409450531006
+      },
+      {
+        "rank": 3,
+        "id": "doc_643",
+        "title": "Toll-like receptor 3 activation enhances antitumor immune response in lung adenocarcinoma through NF-\u03baB signaling pathway.",
+        "text": "Toll-like receptor 3 (TLR3) is a pattern recognition receptor known to play a crucial role in the immune response to cancer. However, its effect on the efficacy of immunotherapy in lung adenocarcinoma...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9909307956695557
+      },
+      {
+        "rank": 4,
+        "id": "doc_672",
+        "title": "Glioma-neuronal circuit remodeling induces regional immunosuppression.",
+        "text": "Neuronal activity-driven mechanisms influence glioblastoma cell proliferation and invasion, while glioblastoma remodels neuronal circuits. Although a subpopulation of malignant cells enhances neuronal...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9909015893936157
+      },
+      {
+        "rank": 5,
+        "id": "doc_727",
+        "title": "27-Hydroxycholesterol in cancer development and drug resistance.",
+        "text": "27-Hydroxycholesterol (27HC), a cholesterol metabolite, functions both as a selective oestrogen receptor (ER) modulator and a ligand for liver X receptors (LXRs). The discovery of 27HC involvement in ...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.990803062915802
+      }
+    ]
+  },
+  {
+    "query": {
+      "id": "doc_490",
+      "title": "Molecular Hydrogen in the Treatment of Respiratory Diseases.",
+      "text": "Molecular hydrogen is gaining increasing attention as an antioxidant, anti-inflammatory, and antiapoptotic agent. Once considered an inert gas, it reveals current therapeutic potential among others in...",
+      "source": "PubMed",
+      "query_term": "asthma therapy"
+    },
+    "neighbors": [
+      {
+        "rank": 1,
+        "id": "doc_489",
+        "title": "Quercetin and Its Lecithin-Based Formulation: Potential Applications for Allergic Diseases Based on a Narrative Review.",
+        "text": "Quercetin, a natural flavonoid, present in various vegetables and fruits, has garnered increasing attraction for its potential antiallergic properties. Its broad-spectrum activity depends on its anti-...",
+        "source": "PubMed",
+        "query_term": "asthma therapy",
+        "similarity": 0.991599977016449
+      },
+      {
+        "rank": 2,
+        "id": "doc_526",
+        "title": "Probiotics for children with asthma: a systematic review and meta-analysis.",
+        "text": "Asthma is a common chronic inflammatory disease affecting children worldwide. While probiotics have been proposed as a potential therapy, their efficacy in pediatric asthma management remains controve...",
+        "source": "PubMed",
+        "query_term": "asthma therapy",
+        "similarity": 0.9915986061096191
+      },
+      {
+        "rank": 3,
+        "id": "doc_561",
+        "title": "Long-Term Pulmonary Sequelae 5-14 Years After Protracted Bacterial Bronchitis in Early Childhood.",
+        "text": "There is little information about long-term changes in pulmonary function tests (PFTs) many years after protracted bacterial bronchitis (PBB), the most common cause of chronic wet cough in early child...",
+        "source": "PubMed",
+        "query_term": "asthma therapy",
+        "similarity": 0.991584062576294
+      },
+      {
+        "rank": 4,
+        "id": "doc_410",
+        "title": "Psychological intervention in severe asthma: from theory to practice.",
+        "text": "Severe asthma is frequently associated with psychological comorbidities that negatively affect disease control and quality of life. Despite clinical guideline recommendations, psychological care remai...",
+        "source": "PubMed",
+        "query_term": "asthma therapy",
+        "similarity": 0.9914966821670532
+      },
+      {
+        "rank": 5,
+        "id": "doc_533",
+        "title": "Molecular sensitisation patterns to aeroallergens in a Mediterranean paediatric population and their clinical implications.",
+        "text": "Environmental exposures, climate change, and lifestyle factors are key contributors to respiratory allergies. Understanding the connection between allergen exposure and the development of allergic dis...",
+        "source": "PubMed",
+        "query_term": "asthma therapy",
+        "similarity": 0.9914642572402954
+      }
+    ]
+  },
+  {
+    "query": {
+      "id": "doc_76",
+      "title": "Effectiveness of Pharmacist-Led Training Regarding Medication for Type 2 Diabetes, Based on Patient and Physician Medication-Related Issues Identified in China.",
+      "text": "To determine the effect of pharmacist-led specialized medication training on rational drug prescription by family physicians, and to characterize the drug-related issues and glycemic control of patien...",
+      "source": "PubMed",
+      "query_term": "diabetes treatment guidelines"
+    },
+    "neighbors": [
+      {
+        "rank": 1,
+        "id": "doc_95",
+        "title": "Targeting metabolic vulnerability by combining NAMPT inhibitors and disulfiram for treatment of recurrent ovarian cancer.",
+        "text": "Ovarian cancer (OV) has the highest mortality rate among gynecological cancers. As OV progresses, tumor cells spread outside the ovaries to the peritoneal and abdominal cavities, forming cell clusters...",
+        "source": "PubMed",
+        "query_term": "diabetes treatment guidelines",
+        "similarity": 0.9907782077789307
+      },
+      {
+        "rank": 2,
+        "id": "doc_37",
+        "title": "Effects of Semaglutide on Glycemic Control and Body Weight in Patients With Type 2 Diabetes: A Retrospective Cohort Study in a Primary Care Setting.",
+        "text": "This study aimed to evaluate the effects of semaglutide (Ozempic) on glycemic control and body weight in patients with type 2 diabetes in a primary care setting. Additionally, the rate of discontinuat...",
+        "source": "PubMed",
+        "query_term": "diabetes treatment guidelines",
+        "similarity": 0.9906171560287476
+      },
+      {
+        "rank": 3,
+        "id": "doc_59",
+        "title": "Case report: pembrolizumab-induced acute type 1 diabetes mellitus and diabetic ketoacidosis in a perioperative esophageal squamous cell carcinoma patient.",
+        "text": "Immune checkpoint inhibitor (ICI) therapy rarely results in severe immune-related adverse events (irAEs). Autoimmune diabetes, an uncommon but serious irAE, can be life-threatening if not promptly tre...",
+        "source": "PubMed",
+        "query_term": "diabetes treatment guidelines",
+        "similarity": 0.990605890750885
+      },
+      {
+        "rank": 4,
+        "id": "doc_141",
+        "title": "Managing obesity in children: a clinical practice guideline.",
+        "text": "Obesity is a complex, chronic, stigmatized disease whereby abnormal or excess body fat may impair health or increase the risk of medical complications, and can reduce quality of life and shorten lifes...",
+        "source": "PubMed",
+        "query_term": "diabetes treatment guidelines",
+        "similarity": 0.9904845952987671
+      },
+      {
+        "rank": 5,
+        "id": "doc_17",
+        "title": "Glycaemic and Weight Control in People Aged 65 or Younger Newly Diagnosed with Type 2 Diabetes in Spain: Insights from the PRIORITY-T2D Study.",
+        "text": "The objective of this study was to determine the number of people within glycated haemoglobin (HbA1c) targets and achieving weight-loss goals during the first 5\u00a0years after type 2 diabetes (T2D) diagn...",
+        "source": "PubMed",
+        "query_term": "diabetes treatment guidelines",
+        "similarity": 0.9904606938362122
+      }
+    ]
+  },
+  {
+    "query": {
+      "id": "doc_725",
+      "title": "The Overexpression of Collagen Receptor DDR1 is Associated With Chromosome Instability and Aneuploidy in Diffuse Large B-Cell Lymphoma.",
+      "text": "Although chronic inflammation is implicated in the pathogenesis of diffuse large B-cell lymphoma (DLBCL), the mechanisms responsible are unknown. We demonstrate that the overexpression of the collagen...",
+      "source": "PubMed",
+      "query_term": "cancer immunotherapy"
+    },
+    "neighbors": [
+      {
+        "rank": 1,
+        "id": "doc_601",
+        "title": "Methuosis key gene ARF6 as a diagnostic, prognostic and immunotherapeutic marker for prostate cancer: based on a comprehensive pan-cancer multi-omics analysis.",
+        "text": "Prostate cancer (PCa) is a leading cause of cancer-related mortality among men worldwide. Despite progress in the understanding of tumor biology, the prognosis for advanced prostate cancer remains poo...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9907890558242798
+      },
+      {
+        "rank": 2,
+        "id": "doc_620",
+        "title": "Induction chemotherapy followed by chemoradiotherapy for locally advanced cervical cancer: A systematic review and meta-analysis.",
+        "text": "The addition of induction chemotherapy (ICT) prior to concomitant chemoradiotherapy (CCRT) in the treatment of locally advanced cervical cancer (LACC) is controversial, as trials have yielded conflict...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9906253814697266
+      },
+      {
+        "rank": 3,
+        "id": "doc_798",
+        "title": "Impact of COVID-19 pandemic on glycaemic and blood pressure control among patients with type 2 diabetes in primary care in Hong Kong.",
+        "text": "To evaluate the impact of social distancing measures due to COVID-19 pandemic on glycemic and blood pressure control in primary care in Hong Kong.",
+        "source": "PubMed",
+        "query_term": "COVID-19 treatment",
+        "similarity": 0.9904419779777527
+      },
+      {
+        "rank": 4,
+        "id": "doc_744",
+        "title": "Effect of human survivin-2B-specific cytotoxic CD8+ T lymphocytes on CD44+/-\u00a0HSC-2 and HSC-3 oral cancer cells.",
+        "text": "Despite advancements in the treatment of oral cancer, cancer survival rates remain low, highlighting the need for new therapeutic strategies targeting cancer stem-like cells. Cancer stem-like cells ar...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9904151558876038
+      },
+      {
+        "rank": 5,
+        "id": "doc_685",
+        "title": "CAR-NK's balancing act: when scFv affinity is not too tight, not too loose\u2026 but just right?",
+        "text": "Chimeric antigen receptor (CAR) therapies have revolutionized cancer treatment by enabling immune cells to target tumor cells with high specificity. While extensive research has focused on optimizing ...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9904075264930725
+      }
+    ]
+  },
+  {
+    "query": {
+      "id": "doc_739",
+      "title": "High-Definition and Autofluorescence Bronchoscopic Imaging for Evaluating Epithelial Changes in Squamous Cell Lung Cancer After Neoadjuvant Immunochemotherapy: A Case Report.",
+      "text": "In recent years, perioperative immune checkpoint inhibitors have become indicated for early-stage lung cancer, emphasizing the importance of high-resolution endoscopic evaluation of preoperative drug ...",
+      "source": "PubMed",
+      "query_term": "cancer immunotherapy"
+    },
+    "neighbors": [
+      {
+        "rank": 1,
+        "id": "doc_654",
+        "title": "Correction to \"Disruption of Super-Enhancers in Activated Pancreatic Stellate Cells Facilitates Chemotherapy and Immunotherapy in Pancreatic Cancer\".",
+        "text": "",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9909921884536743
+      },
+      {
+        "rank": 2,
+        "id": "doc_721",
+        "title": "Optimizing total neoadjuvant therapy in locally advanced rectal cancer: risk stratification should not be overlooked.",
+        "text": "Chemoradiotherapy plus total mesorectal excision has been established as the standard treatment for locally advanced rectal cancer (LARC) and can achieve satisfactory local control. However, systemic ...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9909393787384033
+      },
+      {
+        "rank": 3,
+        "id": "doc_696",
+        "title": "Public Health Implications of Introducing Human Papillomavirus (HPV) Vaccination in Pakistan: A protocol for a mixed-method study to explore community perceptions and health system preparedness.",
+        "text": "Cervical cancer is a preventable illness, and early vaccination can serve as a primary prevention strategy. Currently, HPV vaccination has not been introduced at the national level in Pakistan, and th...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9909088611602783
+      },
+      {
+        "rank": 4,
+        "id": "doc_779",
+        "title": "[Vaccination coverage and delay in 2019 and 2020 birth cohorts: household survey in Cubat\u00e3o, S\u00e3o Paulo State, Brazil].",
+        "text": "The Brazilian Immunization Program has recently struggled to meet the recommended vaccination coverage rates for childhood vaccines included in the national schedule. In Cubat\u00e3o, a municipality in the...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.9908825755119324
+      },
+      {
+        "rank": 5,
+        "id": "doc_675",
+        "title": "Urine Tumor DNA to Stratify the Risk of Recurrence in Patients Treated with Atezolizumab for Bacillus Calmette-Gu\u00e9rin-unresponsive Non-muscle-invasive Bladder Cancer.",
+        "text": "As new treatments for bacillus Calmette-Gu\u00e9rin (BCG)-unresponsive non-muscle-invasive bladder cancer (NMIBC) emerge, better methods are needed to guide therapeutic decisions. This study analyzed urine...",
+        "source": "PubMed",
+        "query_term": "cancer immunotherapy",
+        "similarity": 0.990869402885437
+      }
+    ]
+  }
+]

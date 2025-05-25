@@ -1,0 +1,4 @@
+Dataset,Total Examples,Avg Question Length,Avg Answer Length
+PubMedQA,1000,215.12,39.66
+MedMCQA,193155,33.06,69.62
+Synthea,277,15.11,36.19

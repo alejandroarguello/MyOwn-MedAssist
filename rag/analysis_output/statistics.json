@@ -1,0 +1,11 @@
+{
+  "num_nodes": 1000,
+  "embedding_dimension": 1536,
+  "source_distribution": {
+    "unknown": 1000
+  },
+  "embedding_norm_mean": 1.0,
+  "embedding_norm_std": 3.640277768113265e-08,
+  "avg_cosine_similarity": 0.20380790531635284,
+  "max_cosine_similarity": 0.9916898608207703
+}

@@ -1,0 +1,24 @@
+# Core Libraries
+fastapi
+uvicorn[standard]
+streamlit
+openai
+llama-index
+llama-index-vector-stores-faiss
+faiss-cpu # or faiss-gpu if GPU is available
+langchain
+langfuse
+locust
+python-dotenv
+pydantic
+
+# Data Handling
+pandas
+scikit-learn
+jsonlines
+
+# NLP & Transformers (if using local Mistral)
+# transformers
+# torch
+# accelerate
+# bitsandbytes

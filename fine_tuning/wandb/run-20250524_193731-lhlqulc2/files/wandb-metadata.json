@@ -1,0 +1,40 @@
+{
+  "os": "macOS-15.0-arm64-arm-64bit",
+  "python": "CPython 3.9.6",
+  "startedAt": "2025-05-24T09:37:31.881200Z",
+  "program": "/Users/alejandroarguellosuarez/Documents/VS Code Projects/CascadeProjects/windsurf-project/MyOwn-MedAssist/fine_tuning/openai_finetune.py",
+  "codePath": "openai_finetune.py",
+  "email": "alejandroarguello201@gmail.com",
+  "root": "/Users/alejandroarguellosuarez/Documents/VS Code Projects/CascadeProjects/windsurf-project/MyOwn-MedAssist/fine_tuning",
+  "host": "MacBook-Pro-de-Alejandro.local",
+  "executable": "/Library/Developer/CommandLineTools/usr/bin/python3",
+  "codePathLocal": "openai_finetune.py",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "308577574912"
+    },
+    "/System/Volumes/Data": {
+      "total": "494384795648",
+      "used": "308577574912"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 10
+  },
+  "apple": {
+    "name": "Apple M2 Pro",
+    "ecpuCores": 4,
+    "pcpuCores": 6,
+    "gpuCores": 16,
+    "memoryGb": 16,
+    "swapTotalBytes": "6442450944",
+    "ramTotalBytes": "17179869184"
+  }
+}

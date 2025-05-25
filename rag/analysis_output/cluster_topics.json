@@ -1,0 +1,273 @@
+{
+  "0": {
+    "top_terms": [
+      [
+        "hypertension",
+        18.917405970424316
+      ],
+      [
+        "management",
+        12.809079884598603
+      ],
+      [
+        "hypertension management",
+        10.0629348278095
+      ],
+      [
+        "risk",
+        5.470016986241578
+      ],
+      [
+        "patients",
+        5.356047409542172
+      ],
+      [
+        "study",
+        4.506793497147798
+      ],
+      [
+        "cardiovascular",
+        4.440946106536227
+      ],
+      [
+        "disease",
+        4.182593005265288
+      ],
+      [
+        "pressure",
+        3.96389187208171
+      ],
+      [
+        "factors",
+        3.896429473994719
+      ]
+    ],
+    "document_count": 200,
+    "top_query_terms": [
+      [
+        "hypertension management",
+        199
+      ],
+      [
+        "asthma therapy",
+        1
+      ]
+    ]
+  },
+  "1": {
+    "top_terms": [
+      [
+        "covid",
+        24.675557364427675
+      ],
+      [
+        "19",
+        23.05481228707076
+      ],
+      [
+        "covid 19",
+        22.918312581418856
+      ],
+      [
+        "19 treatment",
+        9.804373152358203
+      ],
+      [
+        "cov",
+        7.472181181360703
+      ],
+      [
+        "sars",
+        7.391882152109456
+      ],
+      [
+        "treatment",
+        7.313804972664756
+      ],
+      [
+        "sars cov",
+        7.294861525464882
+      ],
+      [
+        "pandemic",
+        7.098886942468389
+      ],
+      [
+        "patients",
+        5.006265105923887
+      ]
+    ],
+    "document_count": 200,
+    "top_query_terms": [
+      [
+        "COVID-19 treatment",
+        195
+      ],
+      [
+        "COVID-19",
+        5
+      ]
+    ]
+  },
+  "2": {
+    "top_terms": [
+      [
+        "diabetes",
+        18.77393432790361
+      ],
+      [
+        "guidelines",
+        13.45610687062903
+      ],
+      [
+        "treatment guidelines",
+        11.10308854031977
+      ],
+      [
+        "diabetes treatment",
+        10.958462160543528
+      ],
+      [
+        "treatment",
+        10.218037850214607
+      ],
+      [
+        "type diabetes",
+        6.209256467493397
+      ],
+      [
+        "patients",
+        5.856648235767747
+      ],
+      [
+        "type",
+        5.824076648453132
+      ],
+      [
+        "risk",
+        5.38174237346804
+      ],
+      [
+        "diabetic",
+        4.423718421401143
+      ]
+    ],
+    "document_count": 200,
+    "top_query_terms": [
+      [
+        "diabetes treatment guidelines",
+        200
+      ]
+    ]
+  },
+  "3": {
+    "top_terms": [
+      [
+        "cancer",
+        22.657495652251264
+      ],
+      [
+        "immunotherapy",
+        18.17478604560858
+      ],
+      [
+        "cell",
+        11.326339675893996
+      ],
+      [
+        "cancer immunotherapy",
+        11.166231404717935
+      ],
+      [
+        "tumor",
+        8.969551032554838
+      ],
+      [
+        "immune",
+        8.091992199978053
+      ],
+      [
+        "cells",
+        6.491103412334524
+      ],
+      [
+        "lung",
+        4.8003347964769505
+      ],
+      [
+        "patients",
+        4.272596608387018
+      ],
+      [
+        "lung cancer",
+        3.997331116679053
+      ]
+    ],
+    "document_count": 200,
+    "top_query_terms": [
+      [
+        "cancer immunotherapy",
+        196
+      ],
+      [
+        "COVID-19 treatment",
+        4
+      ]
+    ]
+  },
+  "4": {
+    "top_terms": [
+      [
+        "asthma",
+        27.44096540952879
+      ],
+      [
+        "therapy",
+        12.134403324544955
+      ],
+      [
+        "asthma therapy",
+        11.759295469621323
+      ],
+      [
+        "children",
+        5.776506099687808
+      ],
+      [
+        "airway",
+        4.808195684117596
+      ],
+      [
+        "respiratory",
+        4.786475883382536
+      ],
+      [
+        "patients",
+        4.012174661924814
+      ],
+      [
+        "severe asthma",
+        3.9739156784202287
+      ],
+      [
+        "severe",
+        3.969107046539965
+      ],
+      [
+        "diseases",
+        3.713555709620184
+      ]
+    ],
+    "document_count": 200,
+    "top_query_terms": [
+      [
+        "asthma therapy",
+        197
+      ],
+      [
+        "cancer immunotherapy",
+        3
+      ]
+    ]
+  }
+}
